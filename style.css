@@ -1,0 +1,39 @@
+img{
+    width: 200px;
+}
+
+#output{
+    background-color: grey;
+    color: white;
+    border-radius: 5px;
+    height: 150px;
+}
+
+.main_div{
+    background: rgb(6, 228, 154);
+    padding: 10px;
+    margin-top:15px;
+    border: 3px solid rgb(0, 255, 0);
+}
+
+.main_div label{
+    background-color: rgb(8, 189, 62);
+    width: 310px;
+    margin-bottom: 0px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px cadetblue;
+}
+
+#camera{
+    border: 2px solid cornflowerblue;
+    width:310px;
+    height:300px;
+    box-shadow: 5px 5px 18px cadetblue;
+}
+
+.main_div button{
+    width:310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px cadetblue;
+    border:1px solid;
+}
